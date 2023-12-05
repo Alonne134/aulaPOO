@@ -1,1 +1,4 @@
 arroz
+feijao
+tapioca
+farofa
